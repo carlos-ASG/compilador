@@ -1,1 +1,6 @@
-var :int =4;
+var id:int = 4;
+int
+string
+bool
+float
+4.4.
